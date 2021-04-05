@@ -1,7 +1,7 @@
 # Installation
 
 1. Download and install XAMPP from your browser.
-2. Download (zip) or pull project code from this repository.
+2. Download (zip) or Pull project code from this repository.
 3. Extract the project code (zip) to a folder.
 4. Move the folder to 'C:\xampp\htdocs' folder.
 5. Open the folder and select 'farmers_db' folder.
