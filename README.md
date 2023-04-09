@@ -11,9 +11,9 @@
 2. Open your browser and go to url http://localhost/farmers/.
 3. Browse and enjoy.
 
-# Admin
+# Admin Login
 - Username - Group5
 - Password - SoftEng@2021
 
-# User
+# User Login
 Register and Log In.
